@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Dn588rG3pbbHmKKDzO/eRvFRlyXGbjXYXzFIg2F65qy8aMt/gfOl0BNBIQvI+caQ1AXx4Tlwo9ckDrnMLKJL6Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Metanet\\Desktop\\Task1_Square\\Task1_Square.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Metanet\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
